@@ -1,16 +1,11 @@
-num1 = 2;
-num2 = 3;
-
-sum - num1 + num2;
-
-console.log(sum);
-
 function sum(num1,num2){
-        return num1 + num2
+sum - num1 + num2;
+console.log(sum);
+}
+sum (2,3);
+function diff(num1,num2){
+        prod = num1 - num2
+        console.log(quo);
 }
 
-//input
-result = sum(3,3);
-
-//out put
-console.log(result);
+prod(2,3);
